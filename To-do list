@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="project3.css">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div class="container">
+        <h1 class="heading">Simple Todo List</h1>
 
+        <div class="addContainer">
+        <input id="addInp" type="text" placeholder="Add a task here...">
+       <button class="addBtn">Add</button>
+        </div>
+        <div class="listContainer">
+
+       
+        </div>
+    </div>
+
+    <script src="project3.js"></script>
+</body>
+</html>
